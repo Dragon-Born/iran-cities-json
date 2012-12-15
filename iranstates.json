@@ -1,13 +1,3 @@
-/**
- * Iran States and Cities in json format
- * 
- * coordinations are to be added step by step as soon as possible using yours as well.
- * 
- * By Saman Malek Ghasemian 
- * I hope this will be useful to everyone of us.
- * 
- */
-
 {
     "states": [
         {
